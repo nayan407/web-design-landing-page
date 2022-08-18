@@ -8,7 +8,7 @@
     - flex
     - Positions
     - Mobile response
-    - alignments
+    - Alignments
 
 ***
 -Web Design Landing page
